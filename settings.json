@@ -1,14 +1,14 @@
 {
-  "name": "AFK Bot",
-  "bot-account": {
-    "username": "YourBotUsername",
-    "password": "",
+  "name": "hahaha",
+  "bot-account": {hehbhai}
+    "username": "hehbhai",
+    "password": "hehbhaiii",
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
-    "version": "",
+    "ip": "Sosmp-rDe0.aternos.me:64266",
+    "port": 64266,
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
